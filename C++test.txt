@@ -1,4 +1,4 @@
-C++ was first appeared in :
+C++ was first appeared in:
 a.1983+
 b.2000
 c.1996
