@@ -1,0 +1,29 @@
+c:\users\xarec\documents\visual studio 2012\Projects\Tests\Tests\bin\Debug\Tests.exe.config
+c:\users\xarec\documents\visual studio 2012\Projects\Tests\Tests\bin\Debug\Tests.exe
+c:\users\xarec\documents\visual studio 2012\Projects\Tests\Tests\bin\Debug\Tests.pdb
+c:\users\xarec\documents\visual studio 2012\Projects\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\xarec\documents\visual studio 2012\Projects\Tests\Tests\obj\Debug\Tests.Form1.resources
+c:\users\xarec\documents\visual studio 2012\Projects\Tests\Tests\obj\Debug\Tests.Properties.Resources.resources
+c:\users\xarec\documents\visual studio 2012\Projects\Tests\Tests\obj\Debug\Tests.csproj.GenerateResource.Cache
+c:\users\xarec\documents\visual studio 2012\Projects\Tests\Tests\obj\Debug\Tests.exe
+c:\users\xarec\documents\visual studio 2012\Projects\Tests\Tests\obj\Debug\Tests.pdb
+C:\Users\xarec\Desktop\Нова папка\Tests\Tests\bin\Debug\Tests.exe.config
+C:\Users\xarec\Desktop\Нова папка\Tests\Tests\obj\Debug\Tests.exe
+C:\Users\xarec\Desktop\Нова папка\Tests\Tests\obj\Debug\Tests.pdb
+C:\Users\xarec\Desktop\Нова папка\Tests\Tests\bin\Debug\Tests.exe
+C:\Users\xarec\Desktop\Нова папка\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\xarec\Desktop\Нова папка\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\xarec\Desktop\Нова папка\Tests\Tests\obj\Debug\Tests.Form1.resources
+C:\Users\xarec\Desktop\Нова папка\Tests\Tests\obj\Debug\Tests.Form2.resources
+C:\Users\xarec\Desktop\Нова папка\Tests\Tests\obj\Debug\Tests.Properties.Resources.resources
+C:\Users\xarec\Desktop\Нова папка\Tests\Tests\obj\Debug\Tests.csproj.GenerateResource.Cache
+D:\ШАГ\Программирование\2 семестр\керування проектами\тесты\Tests-master\Tests\Tests\bin\Debug\Tests.exe.config
+D:\ШАГ\Программирование\2 семестр\керування проектами\тесты\Tests-master\Tests\Tests\obj\Debug\Tests.exe
+D:\ШАГ\Программирование\2 семестр\керування проектами\тесты\Tests-master\Tests\Tests\obj\Debug\Tests.pdb
+D:\ШАГ\Программирование\2 семестр\керування проектами\тесты\Tests-master\Tests\Tests\bin\Debug\Tests.exe
+D:\ШАГ\Программирование\2 семестр\керування проектами\тесты\Tests-master\Tests\Tests\bin\Debug\Tests.pdb
+D:\ШАГ\Программирование\2 семестр\керування проектами\тесты\Tests-master\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\ШАГ\Программирование\2 семестр\керування проектами\тесты\Tests-master\Tests\Tests\obj\Debug\Tests.Form1.resources
+D:\ШАГ\Программирование\2 семестр\керування проектами\тесты\Tests-master\Tests\Tests\obj\Debug\Tests.Form2.resources
+D:\ШАГ\Программирование\2 семестр\керування проектами\тесты\Tests-master\Tests\Tests\obj\Debug\Tests.Properties.Resources.resources
+D:\ШАГ\Программирование\2 семестр\керування проектами\тесты\Tests-master\Tests\Tests\obj\Debug\Tests.csproj.GenerateResource.Cache
