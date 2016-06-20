@@ -17,3 +17,6 @@ C:\Users\xarec\Desktop\Нова папка\Tests\Tests\obj\Debug\Tests.Form1.res
 C:\Users\xarec\Desktop\Нова папка\Tests\Tests\obj\Debug\Tests.Form2.resources
 C:\Users\xarec\Desktop\Нова папка\Tests\Tests\obj\Debug\Tests.Properties.Resources.resources
 C:\Users\xarec\Desktop\Нова папка\Tests\Tests\obj\Debug\Tests.csproj.GenerateResource.Cache
+D:\ШАГ\Программирование\2 семестр\керування проектами\тесты\скачка і закачка файлів з мастеру чужого репозиторию\Tests\Tests\bin\Debug\Tests.exe.config
+D:\ШАГ\Программирование\2 семестр\керування проектами\тесты\скачка і закачка файлів з мастеру чужого репозиторию\Tests\Tests\obj\Debug\Tests.exe
+D:\ШАГ\Программирование\2 семестр\керування проектами\тесты\скачка і закачка файлів з мастеру чужого репозиторию\Tests\Tests\obj\Debug\Tests.pdb
