@@ -1,0 +1,46 @@
+
+Ирина@▒▒▒▒▒-▒▒ MINGW64 /d/ШАГ/Программирование/2 семестр/керування проектами/тесты/macter  с чужого репозитория
+$ git remote -v
+fatal: Not a git repository (or any of the parent directories): .git
+
+
+
+Ирина@▒▒▒▒▒-▒▒ MINGW64 /d/ШАГ/Программирование/2 семестр/керування проектами/тесты/macter  с чужого репозитория
+$ git init
+Initialized empty Git repository in D:/ШАГ/Программирование/2 семестр/керування проектами/тесты/macter  с чужого репозитория/.git/
+
+Ирина@▒▒▒▒▒-▒▒ MINGW64 /d/ШАГ/Программирование/2 семестр/керування проектами/тесты/macter  с чужого репозитория (master)
+$ git remote add m_4test https://github.com/4okker/Tests
+
+Ирина@▒▒▒▒▒-▒▒ MINGW64 /d/ШАГ/Программирование/2 семестр/керування проектами/тесты/macter  с чужого репозитория (master)
+$ git remote -v
+m_4test https://github.com/4okker/Tests (fetch)
+m_4test https://github.com/4okker/Tests (push)
+
+Ирина@▒▒▒▒▒-▒▒ MINGW64 /d/ШАГ/Программирование/2 семестр/керування проектами/тесты/macter  с чужого репозитория (master)
+$ git pull m_4test master
+remote: Counting objects: 47, done.
+remote: Compressing objects: 100% (40/40), done.
+remote: Total 47 (delta 5), reused 31 (delta 3), pack-reused 0
+Unpacking objects: 100% (47/47), done.
+From https://github.com/4okker/Tests
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> m_4test/master
+
+Ирина@▒▒▒▒▒-▒▒ MINGW64 /d/ШАГ/Программирование/2 семестр/керування проектами/тесты/macter  с чужого репозитория (master)
+$
+
+Как сделать pull request без fork’а репозитория?
+ Pull request это отправка ваших изменений, но без вливания кода сразу в репозиторий. Вначале ваш commit проверят разработчики.
+
+ $ git commit -m "dev 2.0"
+On branch master
+Changes not staged for commit:
+        modified:   C++test.txt
+
+$ git add .
+
+$ git commit -m "dev 2.0"
+$ git push m_4test HEAD:Dev
+На github’е на странице репозитория выбрать вашу ветку и нажать кнопку «Pull request» (вверху на панели управления).
+Уточняя комментарием, что именно Вы изменили и кликаете на кнопку «Send request».
