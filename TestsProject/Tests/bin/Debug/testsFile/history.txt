@@ -1,0 +1,30 @@
+--HISTORY--
+User : maks
+
+Time : 20.06.2016 21:33:33
+Question : C# was first appeared in :
+
+Answer : a.2005
+
+IsCorect? : False
+
+--HISTORY--
+User : maks
+
+Time : 20.06.2016 21:33:35
+Question : The variable is :
+
+Answer : a.int
+
+IsCorect? : False
+
+--HISTORY--
+User : maks
+
+Time : 20.06.2016 21:33:38
+Question : Writeline
+
+Answer : b.Show text
+
+IsCorect? : True
+
