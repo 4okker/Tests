@@ -1,0 +1,40 @@
+--HISTORY2--
+Login : maks
+
+Time : 20.06.2016 21:23:47
+CountAllMark : 3
+
+CountCorrectMark : 2
+
+--HISTORY2--
+Login : maks2
+
+Time : 20.06.2016 21:25:36
+CountAllMark : 3
+
+CountCorrectMark : 2
+
+--HISTORY2--
+Login : maks
+
+Time : 20.06.2016 21:27:35
+CountAllMark : 3
+
+CountCorrectMark : 1
+
+--HISTORY2--
+Login : maks
+
+Time : 20.06.2016 21:28:21
+CountAllMark : 3
+
+CountCorrectMark : 3
+
+--HISTORY2--
+Login : maks
+
+Time : 20.06.2016 21:33:38
+CountAllMark : 3
+
+CountCorrectMark : 1
+
